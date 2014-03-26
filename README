@@ -1,0 +1,8 @@
+An IRC bot run splint commands on C source code written entirely in python.
+
+The purpose of this bot is to help a C programmer get a quick analysis of their C code's security and potential vulnerabilities.
+
+
+In order to run splint on the code, the user must type !splint followed by a link to where the code is hosted on pastebin. 
+
+
