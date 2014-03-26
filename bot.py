@@ -11,7 +11,7 @@ class Bot:
     server = ''
     nickname = ''
     channel = ''
-    devKey = '979a06e7d12ca94a785b474c8e89d626'#enter your pastebin developer key here
+    devKey = '*******************'#enter your pastebin developer key here
 
         
     def __init__(self, server, channel, nickname):
